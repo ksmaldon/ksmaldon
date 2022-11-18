@@ -1,3 +1,3 @@
 # hi i'm Kylie 👋🏻
 
-I am currently a student at the School of Code.
+currently  student at the School of Code graduating March 2023  🎓
