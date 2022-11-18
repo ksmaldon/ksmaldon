@@ -1,3 +1,8 @@
 # hi i'm Kylie 👋🏻
 
-currently  student at the School of Code graduating March 2023  🎓
+Currently a student at the School of Code graduating March 2023  🎓
+
+Aspiring to be a backend developer
+
+Languages:
+
